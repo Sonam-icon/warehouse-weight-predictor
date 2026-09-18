@@ -31,8 +31,6 @@ The supplied dataset contains **25,000 observations and 24 columns**. Key featur
 | Compliance | government certificate, government checks |
 | Target | `product_wg_ton` |
 
-The raw CSV is included in the working project package for reproducibility, but **verify that you have permission to redistribute the challenge dataset before pushing it to a public GitHub repository**. The repository `.gitignore` is configured to prevent accidental CSV commits.
-
 ## Workflow
 
 ```text
