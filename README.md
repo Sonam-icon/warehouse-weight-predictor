@@ -144,19 +144,6 @@ fmcg-supply-chain-analytics/
         └── warehouse_distribution_by_zone.png
 ```
 
-## Getting Started
-
-```bash
-git clone https://github.com/<your-username>/fmcg-supply-chain-analytics.git
-cd fmcg-supply-chain-analytics
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-jupyter notebook
-```
-
-Open `notebooks/FMCG_Supply_Chain_Analysis.ipynb`.
-
 ## License
 
 The code in this repository is provided under the MIT License. The dataset may be subject to separate ownership or challenge terms; see `data/README.md` before redistributing it.
