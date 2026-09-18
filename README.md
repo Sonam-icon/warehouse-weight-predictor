@@ -10,8 +10,6 @@ This project analyzes warehouse-level operational data from an instant noodles F
 
 The project combines data-quality assessment, exploratory data analysis, preprocessing, regression modeling, model comparison, and a dedicated feature-validity/leakage check.
 
-> **Important:** The original notebook was titled “Supply Chain Optimization”, but the implemented work is primarily **warehouse analytics and regression prediction**. A true network/inventory optimization model is not claimed here.
-
 ## Business Problem
 
 FMCG warehouse networks differ in capacity, location, distribution reach, infrastructure, and operational conditions. Understanding which variables are associated with product movement can support supply-planning analysis and help identify variables that deserve further operational investigation.
